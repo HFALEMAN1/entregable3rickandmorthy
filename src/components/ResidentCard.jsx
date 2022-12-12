@@ -22,7 +22,7 @@ const ResidentCard = ({ urlResident }) => {
     }, [])
 
     return (
-        <article className='cards--Residenst' >
+        <article className='cards--Residenst    ' >
 
 
 

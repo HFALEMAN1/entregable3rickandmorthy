@@ -3,7 +3,7 @@ import React from 'react'
 const LocationIfo = ({ location }) => {
 
     return (
-        <article className='green' >
+        <article className='container--infoDimension' >
             <div className='prueba' >
                 <h2 className='tittle--location'>{location?.name} </h2>
             </div>
