@@ -460,11 +460,13 @@ footer {
 }
 
 
+
 .img--color {
     margin: 10px;
     /* background-color: #73eb1000; */
     width: 200px;
-    z-index: 2;
+    z-index: 20;
+
 }
 
 .errorMessage>p {

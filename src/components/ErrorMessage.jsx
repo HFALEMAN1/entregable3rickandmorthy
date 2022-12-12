@@ -4,9 +4,9 @@ const ErrorMessage = () => {
     return (
         <article className='errorMessage' >
 
-            <div  >
+            <div className='imgportal' >
 
-                <img className='img--color' src="../src/assets/img/portalrickandmorty.png" alt="" />
+                <img className='img--color' src="./src/assets/img/portalrickandmorty.png" alt="" />
 
             </div>
 
