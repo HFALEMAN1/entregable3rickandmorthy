@@ -6,7 +6,7 @@ const ErrorMessage = () => {
 
             <div  >
 
-                <img className='img--color' src="/src/assets/img/portalrickandmorty.png" alt="" />
+                <img className='img--color' src="../src/assets/img/portalrickandmorty.png" alt="" />
 
             </div>
 
